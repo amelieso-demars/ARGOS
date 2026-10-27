@@ -9,5 +9,6 @@
 // Local includes
 
 // Function prototypes
+bool ch08_ex21_1_CompareArray( int a1[], int a2[], int nb);
 
 #endif // EX_0023_COMPAREARRAY_H
